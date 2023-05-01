@@ -15,6 +15,8 @@ ffmpeg: https://github.com/FFmpeg/FFmpeg
 
 EasyOCR: https://github.com/JaidedAI/EasyOCR
 
+Telebot: https://pypi.org/project/pyTelegramBotAPI
+
 # How to run
 
 1. Edit Live YouTube stream url in `save_png.sh` file
